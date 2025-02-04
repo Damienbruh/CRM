@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\repos\\my-first-rest-api\\server\\server.csproj": {}
+    "C:\\CRM\\server\\server.csproj": {}
   },
   "projects": {
-    "S:\\repos\\my-first-rest-api\\server\\server.csproj": {
+    "C:\\CRM\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\repos\\my-first-rest-api\\server\\server.csproj",
+        "projectUniqueName": "C:\\CRM\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "S:\\repos\\my-first-rest-api\\server\\server.csproj",
+        "projectPath": "C:\\CRM\\server\\server.csproj",
         "packagesPath": "C:\\Users\\damie\\.nuget\\packages\\",
-        "outputPath": "S:\\repos\\my-first-rest-api\\server\\obj\\",
+        "outputPath": "C:\\CRM\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\damie\\AppData\\Roaming\\NuGet\\NuGet.Config"
